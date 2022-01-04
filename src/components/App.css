@@ -1,0 +1,22 @@
+.App{
+text-align: center;
+}
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+  margin: 10px;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+.image{
+  width: 30px;
+  justify-content: center;
+}
